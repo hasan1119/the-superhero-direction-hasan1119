@@ -1,0 +1,11 @@
+.summary {
+  position: absolute;
+  right: 0;
+  color: #fff;
+  top: 165px;
+  width: 380px;
+  min-height: 450px;
+}
+.display-employ {
+  min-height: 400px;
+}
