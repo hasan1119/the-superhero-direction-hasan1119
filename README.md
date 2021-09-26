@@ -4,7 +4,7 @@ Description: This is a application to select employs for a new agency named 'Cod
 
 #
 
-Live Site Link: https://www.hasan-assignment-8.netlify.app.
+Live Site Link: https://hasan-assignment-8.netlify.app/.
 
 Technology we use to build this project:
 
